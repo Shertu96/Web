@@ -1,0 +1,13 @@
+.main-page-img {
+    padding: 100px;
+    background: blueviolet;
+}
+
+strong {
+    color: rgba(6, 6, 135, 0.847);
+    font-size: larger;
+}
+
+#super-item{
+    color: green;
+}
